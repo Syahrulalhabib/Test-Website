@@ -1,0 +1,4 @@
+node_modules/
+.env
+testn8n-474314-firebase-adminsdk-fbsvc-47138367cf.json
+package-lock.json
